@@ -8,7 +8,7 @@
 
 <br>
 This is th3k3y, welcome to my profile. I am 15yo, absolutely inlove with cybersecurith and computer science.
-I also love reading, philosophy, astronomy, science, psychanalyze, social engineering, basically everything (needs to be interesting haha).
+I also love reading, philosophy, astronomy, science, psychoanalysis, social engineering, basically everything interesting.
 Peace.
 <br>
 
