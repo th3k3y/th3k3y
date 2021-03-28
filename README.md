@@ -7,7 +7,7 @@
 <div align="center">
 
 <br>
-This is th3k3y, welcome to my profile. I am 15yo, absolutely inlove with cybersecurity, computer science.
+This is th3k3y, welcome to my profile. I am 15yo, absolutely inlove with cybersecurith and computer science.
 I also love reading, philosophy, astronomy, science, psychanalyze, social engineering, basically everything (needs to be interesting haha).
 Peace.
 <br>
