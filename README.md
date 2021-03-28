@@ -1,7 +1,3 @@
-<div align="center">
-<h2>Hi there !</h2>
-</div>
-
 <div align="center" width="50">
 
 <h1>Welcome !</h1>
