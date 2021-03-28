@@ -7,10 +7,10 @@
 <div align="center">
 
 <br>
-I am th3k3y, I'm actually 15 years old and I love computer science, pentesting, cybersecurity and coding.<br>
-I love reading, philosophy, astronomy and (everything that is genuinely interesting).
-I'm actually dual-booting with Kali Linux.
-By the way, I made this GH for fun.<br>
+This is th3k3y, welcome to my profile. I am 15yo, absolutely inlove with cybersecurity, computer science.
+I also love reading, philosophy, astronomy, science, psychanalyze, social engineering, basically everything (needs to be interesting haha).
+Peace.
+<br>
 
 <i>Thanks to be here !</i> 😊
 
