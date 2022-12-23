@@ -12,7 +12,7 @@ I also love reading, philosophy, astronomy, science, psychology, social engineer
 Peace.
 <br>
 
-<i>Thanks for be here !</i> 😊
+<i>Thanks for being here !</i> 😊
 
 </div>
 
