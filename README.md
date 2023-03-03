@@ -11,7 +11,6 @@ This is th3k3y, welcome to my profile. I am 17 years old and I did this GitHub a
 Enjoy.
 <br>
 
-<i>Thanks for being here !</i> 😊
 
 </div>
 
