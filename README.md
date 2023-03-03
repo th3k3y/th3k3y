@@ -7,9 +7,8 @@
 <div align="center">
 
 <br>
-This is th3k3y, welcome to my profile. I am 15yo, absolutely in love with cybersecurity and computer science.
-I also love reading, philosophy, astronomy, science, psychology, social engineering, basically everything interesting.
-Peace.
+This is th3k3y, welcome to my profile. I am 17 years old and I did this GitHub at 14/15. 
+Enjoy.
 <br>
 
 <i>Thanks for being here !</i> 😊
