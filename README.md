@@ -47,20 +47,22 @@ Je suis un développeur de 18 ans passionné par le code et l'exploration d'appr
 
 ## 🤖 Mon approche unique
 
-Ce qui me distingue, c'est ma méthode de travail innovante qui combine le codage traditionnel avec l'assistance de l'IA. J'utilise des outils d'IA pour améliorer ma productivité, stimuler ma réflexion et optimiser le code, tout en maintenant la créativité et la pensée critique humaines. Cette approche hybride me permet de :
-
-- Prototyper et itérer rapidement sur des idées
-- Résoudre des problèmes complexes plus efficacement
-- Rester à la pointe des avancées technologiques
+Ce qui me distingue, c'est ma méthode de travail innovante qui combine le codage traditionnel avec l'assistance de l'IA. J'utilise des outils d'IA pour améliorer ma productivité, stimuler ma réflexion et optimiser le code, tout en maintenant la créativité et la pensée critique humaines.
 
 ## 🛠️ Technologies et outils
 
-Je travaille avec une variété de technologies, notamment :
-- Python
-- HTML/CSS
-- Scripts batch
-- Outils de développement assistés par IA
-- Et bien d'autres !
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+## 📊 Mes statistiques GitHub
+
+[![Statistiques GitHub de Th3k3y](https://github-readme-stats.vercel.app/api?username=th3k3y&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔥 Langages les plus utilisés
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th3k3y&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 N'hésitez pas à explorer mes dépôts pour voir comment j'applique cette approche améliorée par l'IA à mes projets. Je suis toujours ouvert aux discussions sur cette méthode innovante et sur la façon dont elle peut repousser les limites du possible dans le développement logiciel.
 
