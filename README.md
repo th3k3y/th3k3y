@@ -12,20 +12,22 @@ I'm an 18-year-old developer passionate about coding and exploring innovative ap
 
 ## 🤖 My Unique Approach
 
-What sets me apart is my innovative work method that combines traditional coding with AI assistance. I leverage AI tools to enhance my productivity, brainstorm ideas, and optimize code, while maintaining human creativity and critical thinking. This hybrid approach allows me to:
-
-- Rapidly prototype and iterate on ideas
-- Solve complex problems more efficiently
-- Stay at the forefront of technological advancements
+What sets me apart is my innovative work method that combines traditional coding with AI assistance. I leverage AI tools to enhance my productivity, brainstorm ideas, and optimize code, while maintaining human creativity and critical thinking.
 
 ## 🛠️ Technologies & Tools
 
-I work with a variety of technologies, including but not limited to:
-- Python
-- HTML/CSS
-- Batch scripting
-- AI-assisted development tools
-- And more!
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+## 📊 My GitHub Stats
+
+[![Th3k3y's GitHub stats](https://github-readme-stats.vercel.app/api?username=th3k3y&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔥 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th3k3y&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to explore my repositories to see how I apply this AI-enhanced approach to my projects. I'm always open to discussions about this innovative method and how it can push the boundaries of what's possible in software development.
 
