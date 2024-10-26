@@ -2,7 +2,7 @@
 
 Hi there, I'm th3k3y (0x6b6579)! 👋
 
-I'm an 18-year-old developer passionate about coding and exploring innovative approaches to software development. My journey in programming started a few years ago, and I've been constantly evolving my skills and methodologies.
+I'm an 19-year-old developer passionate about coding and exploring innovative approaches to software development. My journey in programming started a few years ago, and I've been constantly evolving my skills and methodologies.
 
 ## 🚀 About Me
 
@@ -10,9 +10,6 @@ I'm an 18-year-old developer passionate about coding and exploring innovative ap
 - 🌱 I'm always learning and expanding my skills in different programming languages and technologies
 - 💡 I enjoy tackling challenges and finding innovative solutions to problems
 
-## 🤖 My Unique Approach
-
-What sets me apart is my innovative work method that combines traditional coding with AI assistance. I leverage AI tools to enhance my productivity, brainstorm ideas, and optimize code, while maintaining human creativity and critical thinking.
 
 ## 🛠️ Technologies & Tools
 
@@ -39,7 +36,7 @@ I'm keen on collaboration and exchanging ideas. Don't hesitate to reach out if y
 
 Salut, je suis th3k3y (0x6b6579) ! 👋
 
-Je suis un développeur de 18 ans passionné par le code et l'exploration d'approches innovantes dans le développement logiciel. Mon parcours en programmation a commencé il y a quelques années, et depuis, je n'ai cessé de faire évoluer mes compétences et mes méthodologies.
+Je suis un développeur de 19 ans passionné par le code et l'exploration d'approches innovantes dans le développement logiciel. Mon parcours en programmation a commencé il y a quelques années, et depuis, je n'ai cessé de faire évoluer mes compétences et mes méthodologies.
 
 ## 🚀 À propos de moi
 
@@ -47,9 +44,6 @@ Je suis un développeur de 18 ans passionné par le code et l'exploration d'appr
 - 🌱 J'apprends constamment et j'élargis mes compétences dans différents langages de programmation et technologies
 - 💡 J'aime relever des défis et trouver des solutions innovantes aux problèmes
 
-## 🤖 Mon approche unique
-
-Ce qui me distingue, c'est ma méthode de travail innovante qui combine le codage traditionnel avec l'assistance de l'IA. J'utilise des outils d'IA pour améliorer ma productivité, stimuler ma réflexion et optimiser le code, tout en maintenant la créativité et la pensée critique humaines.
 
 ## 🛠️ Technologies et outils
 
